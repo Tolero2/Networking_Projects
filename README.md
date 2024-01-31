@@ -1,2 +1,2 @@
 # Networking_Projects
-Some automation script to ease Network Administration tasks
+Some automation scripts to ease Network Administration tasks
